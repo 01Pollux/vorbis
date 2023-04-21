@@ -59,3 +59,10 @@ CMakeSettings.json
 
 .vs/
 .vscode/
+
+# Visual Studio build files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.lua
